@@ -1,0 +1,7294 @@
+{
+  "ECE": [
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC001",
+      "NAME": "Ujjaval Rai",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC002",
+      "NAME": "Abbas Mehdi Abidi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC003",
+      "NAME": "Devashish Belwal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC004",
+      "NAME": "Adil Sheikh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC005",
+      "NAME": "Abhyuday Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC006",
+      "NAME": "Alan Maurya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC007",
+      "NAME": "Ojas Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC008",
+      "NAME": "Prasoon",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC009",
+      "NAME": "Pratham Bathla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC010",
+      "NAME": "Ankur Pratap Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC011",
+      "NAME": "Radhika Sharma",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC012",
+      "NAME": "Srinivas Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC013",
+      "NAME": "Devesh Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC014",
+      "NAME": "Bagish Pandey",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC015",
+      "NAME": "Aryan Singhal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC016",
+      "NAME": "Abhay Pareek",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC017",
+      "NAME": "Prashasti Trivedi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC018",
+      "NAME": "Poorvi Raghav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC019",
+      "NAME": "Shivanshu Kasaundhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC020",
+      "NAME": "Aryan Nigam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC021",
+      "NAME": "Utkarsh Kishore Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC022",
+      "NAME": "Nehal Ahmad",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC023",
+      "NAME": "Pragya Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC024",
+      "NAME": "Priyam Pandey",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC025",
+      "NAME": "Suraj Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC026",
+      "NAME": "Vaibhav Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC027",
+      "NAME": "Hardik Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC028",
+      "NAME": "Shivansh Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC029",
+      "NAME": "Vinit Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC030",
+      "NAME": "Gaurav Mehta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC031",
+      "NAME": "Shaurya Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC032",
+      "NAME": "Himanshu Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC194",
+      "NAME": "Nikhil Anand",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC033",
+      "NAME": "Ujjwal Rai",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC034",
+      "NAME": "Aditya Dutt",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC035",
+      "NAME": "Aditya Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC036",
+      "NAME": "Vansh Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC037",
+      "NAME": "Rounak Ali Ansari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC038",
+      "NAME": "Mohd Nomaan Khan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC039",
+      "NAME": "Abhijay Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC040",
+      "NAME": "Rishabh Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC041",
+      "NAME": "Ashish Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC042",
+      "NAME": "Harsh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC043",
+      "NAME": "Aryan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC044",
+      "NAME": "Ashwik Dubey",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC045",
+      "NAME": "Srishti Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC046",
+      "NAME": "Om Agnihotri",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC047",
+      "NAME": "Sanajna",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC048",
+      "NAME": "Ambuj Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC049",
+      "NAME": "Krishnanshu Jaiswal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC050",
+      "NAME": "Shivam Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC151",
+      "NAME": "Aarohan Vishnoi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC152",
+      "NAME": "Aman Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC153",
+      "NAME": "Utkarsh Upadhyay",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC154",
+      "NAME": "Anushka Aggarwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC155",
+      "NAME": "Anushka Dubey",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC156",
+      "NAME": "Arya Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC157",
+      "NAME": "Aryan Rathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC158",
+      "NAME": "Aryan Trivedi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC159",
+      "NAME": "Ashish Maddhesia",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC160",
+      "NAME": "Darshita Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC161",
+      "NAME": "Dhruv Bhardwaj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC162",
+      "NAME": "Diya Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC163",
+      "NAME": "Harsh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC164",
+      "NAME": "Ishika Srivastava",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "21EC153",
+      "NAME": "Tarushi Sharma",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A1",
+      "ROLL_NO": "22EC193",
+      "NAME": "Tavishi Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC051",
+      "NAME": "Yuvraj Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC052",
+      "NAME": "Abhishek Kumar Jha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC053",
+      "NAME": "Vartika",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC054",
+      "NAME": "Amit Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC055",
+      "NAME": "Ayushi Mishra",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC056",
+      "NAME": "Nikhil Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC057",
+      "NAME": "Agrim Bhardwaj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC058",
+      "NAME": "Sahil Rai",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC059",
+      "NAME": "Alok Kumar Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC060",
+      "NAME": "Himanshu Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC061",
+      "NAME": "Anuj Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC062",
+      "NAME": "Ranjan Dubey",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC063",
+      "NAME": "Abhimeet Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC064",
+      "NAME": "Ayushi Tiwari",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC065",
+      "NAME": "Anurag Gautam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC066",
+      "NAME": "Naman Jain",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC067",
+      "NAME": "Aryadit Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC068",
+      "NAME": "Prince Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC069",
+      "NAME": "Bhavik Dhuphur",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC070",
+      "NAME": "Kaushik Saroj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC071",
+      "NAME": "Sanchi Goyal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC072",
+      "NAME": "Vidisha Kesarwani",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC073",
+      "NAME": "Simon Masih",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC074",
+      "NAME": "Hirdesh Pamnani",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC075",
+      "NAME": "Sonali Pal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC077",
+      "NAME": "Misbah Azam",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC078",
+      "NAME": "Shantanu Sharma",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC079",
+      "NAME": "Garvit Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC080",
+      "NAME": "Jatin Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC081",
+      "NAME": "Prince Soni",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC082",
+      "NAME": "Akarsh Patel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC083",
+      "NAME": "Akshat Jaiswal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC198",
+      "NAME": "Srishti Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC199",
+      "NAME": "Sandesh Singhal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC085",
+      "NAME": "Sakshi Kumari",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC086",
+      "NAME": "Nirbhay Kumar Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC087",
+      "NAME": "Mohammad Masir",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC088",
+      "NAME": "Shailendra Pratap Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC089",
+      "NAME": "Kartikey Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC090",
+      "NAME": "Yash Singhal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC091",
+      "NAME": "Akash Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC092",
+      "NAME": "Harsh Kapoor",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC093",
+      "NAME": "Priyanshu Kumar Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC094",
+      "NAME": "Prathvi Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC095",
+      "NAME": "Rifa Khan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC096",
+      "NAME": "Ayush Pal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC097",
+      "NAME": "Aditya Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC098",
+      "NAME": "Anukool Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC099",
+      "NAME": "Saksham Rastogi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC165",
+      "NAME": "Jayati Rahul",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC166",
+      "NAME": "Kashish Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC167",
+      "NAME": "Mizfar Hussain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC168",
+      "NAME": "Naman Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC169",
+      "NAME": "Nandini Pawar",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC170",
+      "NAME": "Prabhu Punj",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC171",
+      "NAME": "Pranjali Bhatt",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC172",
+      "NAME": "Priyanshi Rajput",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC173",
+      "NAME": "Priyanshu Chaudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC174",
+      "NAME": "Radhika Mehrotra",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC175",
+      "NAME": "Raghav Raturi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC176",
+      "NAME": "Raghav Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC177",
+      "NAME": "Saket Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "22EC178",
+      "NAME": "Shaurya Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "21EC164",
+      "NAME": "Lakshya Sharma",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "21EC102",
+      "NAME": "Swarnim Susheel Kumar Pinthala",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A2",
+      "ROLL_NO": "21EC172",
+      "NAME": "Ishan Dwivedi ",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC101",
+      "NAME": "Daiwik Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC102",
+      "NAME": "Yashraj Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC103",
+      "NAME": "Mayank Chaurasia",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC104",
+      "NAME": "Anuj Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC105",
+      "NAME": "Vaagesh Dwivedi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC106",
+      "NAME": "Aditi Pandey",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC107",
+      "NAME": "Abhishek Patel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC109",
+      "NAME": "Yash Jaiswal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC110",
+      "NAME": "Ishika Upreti",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC111",
+      "NAME": "Aanubhav Jha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC112",
+      "NAME": "Sangesh Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC113",
+      "NAME": "Nishtha Jaiswal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC114",
+      "NAME": "Snehil Jaiswal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC116",
+      "NAME": "Ruhani Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC117",
+      "NAME": "Abhay",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC118",
+      "NAME": "Anmol Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC119",
+      "NAME": "Ayush Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC120",
+      "NAME": "Ayushi Agrawal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC121",
+      "NAME": "Anmol Chand",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC122",
+      "NAME": "Dushyant Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC123",
+      "NAME": "Ishan Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC124",
+      "NAME": "Rishika Dolvy Saxena",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC125",
+      "NAME": "Yousuf Abdullah Jafri",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC126",
+      "NAME": "Vanshaj Chaudhary",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC127",
+      "NAME": "Gopal Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC128",
+      "NAME": "Lalit Narayan Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC129",
+      "NAME": "Mahima Srivastava",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC130",
+      "NAME": "Som Dutt Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC131",
+      "NAME": "Avinash Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC132",
+      "NAME": "Priyanshu Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC133",
+      "NAME": "Shobhit Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC195",
+      "NAME": "Vanditsuryavanshi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "21EC180",
+      "NAME": "Krish Lajpal",
+      "GROUP": "G1",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC134",
+      "NAME": "Yash Bhushan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC135",
+      "NAME": "Shruti Yadav",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC136",
+      "NAME": "Aanchal Jaiswal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC137",
+      "NAME": "Kushagra Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC138",
+      "NAME": "Kushagra Soni",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC139",
+      "NAME": "Arham Raza",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC140",
+      "NAME": "Rinki Pargai",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC141",
+      "NAME": "Raghavendra Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC142",
+      "NAME": "Anubhav Shukla",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC143",
+      "NAME": "Achintya Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC144",
+      "NAME": "Tushar Chaturvedi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC145",
+      "NAME": "Somesh Pandey",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC148",
+      "NAME": "Yash Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC149",
+      "NAME": "Shreya Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC150",
+      "NAME": "Pakhi Srivastava",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC179",
+      "NAME": "Shresth Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC180",
+      "NAME": "Shreya Varshney",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC181",
+      "NAME": "Tanish Shrivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC182",
+      "NAME": "Vaibhav Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC183",
+      "NAME": "Vanshika Saran",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC184",
+      "NAME": "Vishal Aditya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC185",
+      "NAME": "Yash Tiwari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC186",
+      "NAME": "Ashwati Gopan",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC187",
+      "NAME": "Shambhavi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC188",
+      "NAME": "Riya Sinha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC189",
+      "NAME": "Aashi Shukla",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC190",
+      "NAME": "Anurag Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC191",
+      "NAME": "Chaitanya Kainth",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC192",
+      "NAME": "Swastik Rathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC196",
+      "NAME": "Aditya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "22EC197",
+      "NAME": "Akshat Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "21EC146",
+      "NAME": "Pavan Singh",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A3",
+      "ROLL_NO": "21EC168",
+      "NAME": "Shubham Kumar",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "ROLL_NO": "21EC165",
+      "NAME": "Vaibhav Goyal",
+      "GROUP": "Ex-student",
+      "gender": "male"
+    },
+    {
+      "ROLL_NO": "21EC175",
+      "NAME": "Kasvi Gupta",
+      "GROUP": "Ex-student",
+      "gender": "male"
+    }
+  ],
+  "IT": [
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT001",
+      "NAME": "Nakul Charak",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT002",
+      "NAME": "Kunal Salaria",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT003",
+      "NAME": "Prakhar Dwivedi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT004",
+      "NAME": "Gaurav Kumar Upadhyay",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT005",
+      "NAME": "Kanak Goel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT006",
+      "NAME": "Abhishek Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT007",
+      "NAME": "Jai Vishal Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT008",
+      "NAME": "Akshat Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT009",
+      "NAME": "Sacchidanand Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT010",
+      "NAME": "Bhupendra Pal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT011",
+      "NAME": "Shantanu Prajapati",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT012",
+      "NAME": "Dev Tyagi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT013",
+      "NAME": "Aryan Aditya Bansal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT014",
+      "NAME": "Kaushalendra Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT015",
+      "NAME": "Vanshika Chauhan",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT016",
+      "NAME": "Anshika Goel",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT017",
+      "NAME": "Vansh Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT018",
+      "NAME": "Aman Jain",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT019",
+      "NAME": "Aniket Misra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT020",
+      "NAME": "Devesh Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT021",
+      "NAME": "Yash Bisht",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT022",
+      "NAME": "Shri Prakash Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT023",
+      "NAME": "Faisal Khan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT024",
+      "NAME": "Iti Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT025",
+      "NAME": "Vikash Singh Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT026",
+      "NAME": "Subodh Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT027",
+      "NAME": "Bhanu Pratap Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT028",
+      "NAME": "Anant Jain",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT029",
+      "NAME": "Vaibhav Tomar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT030",
+      "NAME": "Dipanshu Mohan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT031",
+      "NAME": "Aditya Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT032",
+      "NAME": "Ananya Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT033",
+      "NAME": "Mohit Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT034",
+      "NAME": "Sidaqdeep Singh Behal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT035",
+      "NAME": "Mohit Negi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT036",
+      "NAME": "Prasoon Chauhan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT037",
+      "NAME": "Garima Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT038",
+      "NAME": "Abhinav Shrivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT039",
+      "NAME": "Ananya Singhal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT040",
+      "NAME": "Priyam Jaiswal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT041",
+      "NAME": "Varun Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT042",
+      "NAME": "Ashwini Choubey",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT043",
+      "NAME": "Krishna Sharmakrishna Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT044",
+      "NAME": "Ayush Raj Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT045",
+      "NAME": "Shivam Bharti",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT046",
+      "NAME": "Pulak Jakhmola",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT047",
+      "NAME": "Parv Pilania",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT048",
+      "NAME": "Amarjyoti",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT049",
+      "NAME": "Akanksha",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT050",
+      "NAME": "Mohak Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT051",
+      "NAME": "Shashank Kumar Azad",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT052",
+      "NAME": "Kapil Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT053",
+      "NAME": "Arush Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT151",
+      "NAME": "Udit Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT152",
+      "NAME": "Varun Saxena",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT153",
+      "NAME": "Poorva Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT154",
+      "NAME": "Radhika Agarwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT155",
+      "NAME": "Eshan Agarwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT156",
+      "NAME": "Aryan Tyagi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT157",
+      "NAME": "Vaidehi Trikha",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT158",
+      "NAME": "Anubhav Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT159",
+      "NAME": "Somiya Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT160",
+      "NAME": "Shubham Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT161",
+      "NAME": "Omkar Goje",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT162",
+      "NAME": "Iskanda Manglik",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT163",
+      "NAME": "Garima Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT164",
+      "NAME": "Maansi Bharti",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT165",
+      "NAME": "Harsh Jha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A4",
+      "ROLL_NO": "22IT166",
+      "NAME": "Ashita Maheshwari",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT054",
+      "NAME": "Manish Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT055",
+      "NAME": "Pragati Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT056",
+      "NAME": "Rishabh Panwar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT057",
+      "NAME": "Yash Rajput",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT058",
+      "NAME": "Archita Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT059",
+      "NAME": "Vivek Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT060",
+      "NAME": "Balraj Sen Srivastav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT061",
+      "NAME": "Saarthak Goel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT062",
+      "NAME": "Utkarsh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT063",
+      "NAME": "Mohd Irshad",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT064",
+      "NAME": "Ayush Rawat",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT065",
+      "NAME": "Shashank Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT066",
+      "NAME": "Akriti Yadav",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT067",
+      "NAME": "Himesh Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT068",
+      "NAME": "Atul Kumar Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT069",
+      "NAME": "Akash Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT070",
+      "NAME": "Nikhil Kumar Awasthi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT071",
+      "NAME": "Dushyant Singh Chouhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT072",
+      "NAME": "Pawan Kumar Kasaudhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT073",
+      "NAME": "Himanshu Shekhar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT074",
+      "NAME": "Priyanshu Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT075",
+      "NAME": "Vivek Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT076",
+      "NAME": "Tripti Singh Lokariya",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT078",
+      "NAME": "Dinesh Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT079",
+      "NAME": "Akansha Bharti",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT080",
+      "NAME": "Divyansh Rai",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT081",
+      "NAME": "Satyam Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT082",
+      "NAME": "Divya Kumar",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT083",
+      "NAME": "Uma Shankar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT084",
+      "NAME": "Anurag Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT085",
+      "NAME": "Yash Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT086",
+      "NAME": "Anukrit Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT087",
+      "NAME": "Abhishek Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT088",
+      "NAME": "Siddhant Suri",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT089",
+      "NAME": "Atharv Arya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT091",
+      "NAME": "Vishal Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT092",
+      "NAME": "Himanshu Kandiyl",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT093",
+      "NAME": "Alok Maurya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT094",
+      "NAME": "Shirin Agarwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT095",
+      "NAME": "Aryan Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT096",
+      "NAME": "Saksham Narvar",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT097",
+      "NAME": "Navneet Shahi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT098",
+      "NAME": "Vaishnavi Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT099",
+      "NAME": "Ibra Fatima",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT100",
+      "NAME": "Devendra Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT101",
+      "NAME": "Khushboo Kumari",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT102",
+      "NAME": "Anubhav Kumar Kesharwani",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT103",
+      "NAME": "Atharv Gautam",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT104",
+      "NAME": "Ritesh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT105",
+      "NAME": "Nikhil Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT106",
+      "NAME": "Vidit Dixit",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT167",
+      "NAME": "Nikunj Gaur",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT168",
+      "NAME": "Satwik Khare",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT169",
+      "NAME": "Tripti Gupta",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT170",
+      "NAME": "Varun Marwah",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT171",
+      "NAME": "Abhimanyu Rathore",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT172",
+      "NAME": "Shreya Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT173",
+      "NAME": "Kritika Kargeti",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT174",
+      "NAME": "Shikhar Rastogi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT175",
+      "NAME": "Gaurav Manchanda",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT176",
+      "NAME": "Lakshay Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT177",
+      "NAME": "Devesh Rajput",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT178",
+      "NAME": "Aryan Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT179",
+      "NAME": "Abhay Kumar Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT180",
+      "NAME": "Amit Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "22IT181",
+      "NAME": "Manuraj Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A5",
+      "ROLL_NO": "21IT082",
+      "NAME": "Aaryan Tripathi",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT107",
+      "NAME": "Harsh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT108",
+      "NAME": "Siddhant Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT109",
+      "NAME": "Dhananjay Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT110",
+      "NAME": "Ayushman Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT111",
+      "NAME": "Yash Katiyar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT112",
+      "NAME": "Kunal Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT113",
+      "NAME": "Vishve Pratap Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT114",
+      "NAME": "Pushpendra Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT115",
+      "NAME": "Kunal Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT117",
+      "NAME": "Abhay Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT118",
+      "NAME": "Devesh Jaiswal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT119",
+      "NAME": "Aryan Kumar Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT120",
+      "NAME": "Shailesh Yadav",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT121",
+      "NAME": "Siddharth Sahu",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT122",
+      "NAME": "Omshiv Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT123",
+      "NAME": "Adarsh Thakur",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT124",
+      "NAME": "Akash Soni",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT125",
+      "NAME": "Bhavy Dhariwal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT126",
+      "NAME": "Dhruv Bhardwaj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT127",
+      "NAME": "Shivam Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT128",
+      "NAME": "Praanshu Joshi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT129",
+      "NAME": "Nitin Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT130",
+      "NAME": "Riddhi Vinayak Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT131",
+      "NAME": "Daksh Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT132",
+      "NAME": "Utkarsh Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT133",
+      "NAME": "Prakhar Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT134",
+      "NAME": "Pawandeep Kaur",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT135",
+      "NAME": "Bharat Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT136",
+      "NAME": "Vikas Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT137",
+      "NAME": "Disha Pandey",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT138",
+      "NAME": "Piyush Bharti",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT139",
+      "NAME": "Ayush Choudhary",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT140",
+      "NAME": "Lalit Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT141",
+      "NAME": "Rohan Yadav",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT142",
+      "NAME": "Tanuj Tiwari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT143",
+      "NAME": "Aditya Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT144",
+      "NAME": "Shivang Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT145",
+      "NAME": "Akshay Goel",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT146",
+      "NAME": "Vikhyat Kishore Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT147",
+      "NAME": "Khushi Madeshia",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT149",
+      "NAME": "Vanshika Bhardwaj",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT150",
+      "NAME": "Anubhav Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT182",
+      "NAME": "Tejasva Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT184",
+      "NAME": "Arun Kumar Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT185",
+      "NAME": "Shrey Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT187",
+      "NAME": "Palak Rai",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT188",
+      "NAME": "Arin Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT189",
+      "NAME": "Disha Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT190",
+      "NAME": "Bhawna",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT191",
+      "NAME": "Mujtaba Asim",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT192",
+      "NAME": "Mukund Madhav Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT193",
+      "NAME": "Krishank Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT194",
+      "NAME": "Rajya Vardhan Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT195",
+      "NAME": "Anant Rawat",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT196",
+      "NAME": "Tanishq Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT197",
+      "NAME": "Aditya Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT198",
+      "NAME": "Sparsh Vardhan Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT199",
+      "NAME": "Kumar Aditya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT200",
+      "NAME": "Anjaney Pandey",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT201",
+      "NAME": "Siddharthchoudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT202",
+      "NAME": "Sneha Gupta",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT203",
+      "NAME": "Parv Goyal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT204",
+      "NAME": "Devansh Katiyar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT205",
+      "NAME": "Rishika ",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "22IT206",
+      "NAME": "Hritik Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "21IT113",
+      "NAME": "Pranav Sharma",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A6",
+      "ROLL_NO": "21IT079",
+      "NAME": "Sourabh Singh Rathore",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "ROLL_NO": "21IT124",
+      "NAME": "Athorva Srivastava",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    },
+    {
+      "ROLL_NO": "21IT106",
+      "NAME": "Siddharth Gupta",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    },
+    {
+      "ROLL_NO": "21IT104",
+      "NAME": "Kshitij Rathi",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    }
+  ],
+  "CSDS": [
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS001",
+      "NAME": "Arpit Vaishya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS002",
+      "NAME": "Shadab Khan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS003",
+      "NAME": "Arjun Vats",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS004",
+      "NAME": "Ishika Jain",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS005",
+      "NAME": "Rohit Agrawal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS006",
+      "NAME": "Singh Aditya Jagdeesh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS008",
+      "NAME": "Ajay Kumar Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS009",
+      "NAME": "Gargi Tarsoliya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS010",
+      "NAME": "Shivesh Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS011",
+      "NAME": "Sarthak Kumar Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS012",
+      "NAME": "Ashish Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS013",
+      "NAME": "Mahima Gupta",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS014",
+      "NAME": "Vansh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS015",
+      "NAME": "Mohit Kumar Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS016",
+      "NAME": "Harshit Varshney",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS018",
+      "NAME": "Mradul Gautam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS019",
+      "NAME": "Shivank",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS020",
+      "NAME": "Ananya Sagar",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS021",
+      "NAME": "Harsh Vardhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS022",
+      "NAME": "Divyansh Arya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS023",
+      "NAME": "Anshika Awasthi",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS024",
+      "NAME": "Aditya Balhara",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS025",
+      "NAME": "Zeerak Mustafa Khan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS026",
+      "NAME": "Akhilesh Kumar",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS027",
+      "NAME": "Priyanshu Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS028",
+      "NAME": "Vaishali Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS029",
+      "NAME": "Khushi Joshi",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS030",
+      "NAME": "Kaushlendra Kumar Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS031",
+      "NAME": "Muskan Chauhan",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS032",
+      "NAME": "Aditi Baranwal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS033",
+      "NAME": "Mohammad Azhar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22DSCS034",
+      "NAME": "Sejal Kureel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS131",
+      "NAME": "Krishna Garg",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS132",
+      "NAME": "Aryan Budhwar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS035",
+      "NAME": "Neelesh Kumar Saxena",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS036",
+      "NAME": "Prateek Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS037",
+      "NAME": "Himanshu Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS038",
+      "NAME": "Ayush Kumar Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS039",
+      "NAME": "Vineet Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS040",
+      "NAME": "Shivam Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS041",
+      "NAME": "Prateek Roshan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS042",
+      "NAME": "Shreya Shukla",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS043",
+      "NAME": "Aasthik Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS044",
+      "NAME": "Indrajeet Patel",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS045",
+      "NAME": "Vishal Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS046",
+      "NAME": "Harshit Jaiswal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS047",
+      "NAME": "Vishal Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS048",
+      "NAME": "Abhianv Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS049",
+      "NAME": "Swapnil Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS050",
+      "NAME": "Tejasw Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS051",
+      "NAME": "Sachin Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS101",
+      "NAME": "Aditi Gusain",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS102",
+      "NAME": "Himanshi Yadav",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS103",
+      "NAME": "Mukund Gautam",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS104",
+      "NAME": "Gaurvi Varshney",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS105",
+      "NAME": "Nakul Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS106",
+      "NAME": "Nandni Mohan",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS107",
+      "NAME": "Palak Gupta",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS108",
+      "NAME": "Sajal Singhal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS109",
+      "NAME": "Sanya Saxena",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS110",
+      "NAME": "Sanyam Bansal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS111",
+      "NAME": "Shashwat Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS112",
+      "NAME": "Soumya Raj Sevta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS113",
+      "NAME": "Tanisha Agrawal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS114",
+      "NAME": "Umang Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS115",
+      "NAME": "Utkarsh Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A7",
+      "ROLL_NO": "22CSDS133",
+      "NAME": "Aadi Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS052",
+      "NAME": "Tejas",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS053",
+      "NAME": "Astha Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS054",
+      "NAME": "Atul Prakash Rawat",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS055",
+      "NAME": "Harshit Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS056",
+      "NAME": "Ansh Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS057",
+      "NAME": "Vineet Srivastav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS058",
+      "NAME": "Suryansh Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS059",
+      "NAME": "Arjun Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS060",
+      "NAME": "Gaurav Kaushik",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS061",
+      "NAME": "Ishita Sachan",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS062",
+      "NAME": "Sanskar Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS063",
+      "NAME": "Sourav Kundu",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS064",
+      "NAME": "Ramit Vishwakarma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS065",
+      "NAME": "Ashutosh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS066",
+      "NAME": "Abhinav Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS067",
+      "NAME": "Aadi Kumar Kasana",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS068",
+      "NAME": "Nishant Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS069",
+      "NAME": "Utkarsh Rajput",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS070",
+      "NAME": "Akash Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS071",
+      "NAME": "Bhoomi Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS072",
+      "NAME": "Divya Mishra",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS073",
+      "NAME": "Pragati Jaiswal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS074",
+      "NAME": "Sayyam Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS075",
+      "NAME": "Sajal Varshney",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS076",
+      "NAME": "Naitik Narayan Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS077",
+      "NAME": "Vikash Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS078",
+      "NAME": "Abhishek Rajpoot",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS079",
+      "NAME": "Viraj Gautam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS080",
+      "NAME": "Ravindra Ray",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS082",
+      "NAME": "Abhishek Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS083",
+      "NAME": "Ravi Shankar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS084",
+      "NAME": "Amrit Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS085",
+      "NAME": "Nitesh Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS086",
+      "NAME": "Vedansh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS087",
+      "NAME": "Anurag Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS088",
+      "NAME": "Prakhar Kushwaha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS090",
+      "NAME": "Aman Soni",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS091",
+      "NAME": "Palak Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS092",
+      "NAME": "Anand Pranav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS094",
+      "NAME": "Pradeep Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS095",
+      "NAME": "Anurag Shukla",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS096",
+      "NAME": "Aman Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS097",
+      "NAME": "Ayushi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS098",
+      "NAME": "Neeraj Patel",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS099",
+      "NAME": "Shivam Kumar Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS100",
+      "NAME": "Mohammad Asad Khan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS116",
+      "NAME": "Anirudh Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS117",
+      "NAME": "Kartik Vats",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS118",
+      "NAME": "Shreya Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS119",
+      "NAME": "Harsh Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS120",
+      "NAME": "Aayush Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS121",
+      "NAME": "Chetan Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS122",
+      "NAME": "Kushagra Kumar",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS123",
+      "NAME": "Tanmay Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS124",
+      "NAME": "Ayanna Malik",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS125",
+      "NAME": "Kavyansh Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS126",
+      "NAME": "Aditya Solanki",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS127",
+      "NAME": "Kritika Agarwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS128",
+      "NAME": "Sushant Solanki",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS129",
+      "NAME": "Prateek Kabdwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS130",
+      "NAME": "Aalekh Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS134",
+      "NAME": "Vibhor Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS135",
+      "NAME": "Devanshi Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "22CSDS136",
+      "NAME": "Farhan Javed",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "21CSDS056",
+      "NAME": "Arnav Wadhwa",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "A8",
+      "ROLL_NO": "21CSDS057",
+      "NAME": "Ojas Batnagar",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    }
+  ],
+  "CSE": [
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS001",
+      "NAME": "Vanshika Choudhary",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS002",
+      "NAME": "Lakhbir Choudhary",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS003",
+      "NAME": "Mansu Bansal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS004",
+      "NAME": "Amora",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS005",
+      "NAME": "Ritik Khari",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS006",
+      "NAME": "Shreyansh Garg",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS007",
+      "NAME": "Vanshika Gautam",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS008",
+      "NAME": "Priyanshu Agnihotri",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS009",
+      "NAME": "Vivek Tyagi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS010",
+      "NAME": "Ashish Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS 011",
+      "NAME": "Abhinandan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS012",
+      "NAME": "Abhishek Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS013",
+      "NAME": "Ishita Agarwal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS015",
+      "NAME": "Yash Bhadauriya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS016",
+      "NAME": "Parth Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS017",
+      "NAME": "Jatin Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS018",
+      "NAME": "Akarsh Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS019",
+      "NAME": "Navaneet Chaturvedi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS020",
+      "NAME": "Prabal Garg",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS021",
+      "NAME": "Aviral Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS022",
+      "NAME": "Amit Rajawat",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS023",
+      "NAME": "Dhruv Shishodia",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS024",
+      "NAME": "Jayant",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS025",
+      "NAME": "Sankalp Saxena",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS026",
+      "NAME": "Kshitij Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS027",
+      "NAME": "Anusha Agarwal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS029",
+      "NAME": "Paridhi Singhal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS030",
+      "NAME": "Aditya Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS031",
+      "NAME": "Bhaskar Manral",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS032",
+      "NAME": "Amish Soni",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS033",
+      "NAME": "Aashi Gupta",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS034",
+      "NAME": "Harsh Madhur",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS171",
+      "NAME": "Vanshika Kapoor",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS205",
+      "NAME": "Anushka Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS035",
+      "NAME": "Abhinav Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS036",
+      "NAME": "Unnat Kumar Agarwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS037",
+      "NAME": "Pranjal Vijayvargiy",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS038",
+      "NAME": "Harsh Kumar Jha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS039",
+      "NAME": "Yashvardhan Dixit",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS040",
+      "NAME": "Shreya Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS041",
+      "NAME": "Devansh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS042",
+      "NAME": "Navneet Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS043",
+      "NAME": "Ayush Kumar Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS044",
+      "NAME": "Dhruv Dhiman",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS045",
+      "NAME": "Aakrati Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS046",
+      "NAME": "Deepti Rathore",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS047",
+      "NAME": "Mohd Saim Rafi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS048",
+      "NAME": "Nikhil Kumar Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS049",
+      "NAME": "Shubhankar Bajpai",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS050",
+      "NAME": "Sneha Jain",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS051",
+      "NAME": "Astha Gupta",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS052",
+      "NAME": "Sarthak Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS053",
+      "NAME": "Hritik Raheja",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS054",
+      "NAME": "Sparsh Rathore",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS055",
+      "NAME": "Khushi Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS151",
+      "NAME": "Aaditya Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS152",
+      "NAME": "Aditya Pathak",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS153",
+      "NAME": "Akanksha Sharma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS154",
+      "NAME": "Anushka Kandwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS155",
+      "NAME": "Arjun Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS156",
+      "NAME": "Atharv Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS157",
+      "NAME": "Devansh Bansal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS158",
+      "NAME": "Harsh Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS159",
+      "NAME": "Sakshi Srivastava",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS160",
+      "NAME": "Kanishk Trivedi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS161",
+      "NAME": "Karan Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS162",
+      "NAME": "Nidhi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS163",
+      "NAME": "Nischay Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS164",
+      "NAME": "Paridhi Mittal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B1",
+      "ROLL_NO": "22CS203",
+      "NAME": "Aditya Mehrotra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS056",
+      "NAME": "Harsh Jajaniya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS057",
+      "NAME": "Aeshna Jain",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS058",
+      "NAME": "Palak Srivastava",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS059",
+      "NAME": "Garvit Bhardwaj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS060",
+      "NAME": "Bhavana Tiwari",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS061",
+      "NAME": "Akansha Roy",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS062",
+      "NAME": "Nitin Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS063",
+      "NAME": "Ishaan Srivastav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS064",
+      "NAME": "Vaishnavi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS065",
+      "NAME": "Kushagra Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS066",
+      "NAME": "Vansh Bhardwaj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS067",
+      "NAME": "Himanshu Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS068",
+      "NAME": "Himanshukumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS069",
+      "NAME": "Shikhar Kumar Patwa",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS070",
+      "NAME": "Aryan Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS071",
+      "NAME": "Sarthak Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS072",
+      "NAME": "Ayush Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS073",
+      "NAME": "Deepanshu Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS074",
+      "NAME": "Kshitiz Prakash Srivastava",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS075",
+      "NAME": "Ramya Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS076",
+      "NAME": "Mohit Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS077",
+      "NAME": "Ishan Prakash",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS078",
+      "NAME": "Sahil Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS079",
+      "NAME": "Kashish Kushwaha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS080",
+      "NAME": "Akhil Dhiman",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS081",
+      "NAME": "Vedant Sangal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS082",
+      "NAME": "Yash Nagar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS083",
+      "NAME": "Priyanshi Negi",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS084",
+      "NAME": "Shubham Raj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS085",
+      "NAME": "Vansh Bhatnagar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS086",
+      "NAME": "Vedant Goyal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS087",
+      "NAME": "Avinash Kumar Thakur",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS088",
+      "NAME": "Samiksha Oriya",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS207",
+      "NAME": "Vidushi Bhatt",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS089",
+      "NAME": "Riya Aggarwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS090",
+      "NAME": "Dev Giri",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS091",
+      "NAME": "Aryan Choudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS092",
+      "NAME": "Shashwat Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS093",
+      "NAME": "Saurabh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS094",
+      "NAME": "Vansh Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS095",
+      "NAME": "Aman Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS096",
+      "NAME": "Arbaz Ali",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS097",
+      "NAME": "Ansh Varshney",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS098",
+      "NAME": "Ranjan Kumar",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS099",
+      "NAME": "Shubham Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS100",
+      "NAME": "Krishnakant Kushwaha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS101",
+      "NAME": "Vishal Paswan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS102",
+      "NAME": "Aviral Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS103",
+      "NAME": "Ayush Singh Gautam",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS104",
+      "NAME": "Maharshi Tripathi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS105",
+      "NAME": "Anmol Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS106",
+      "NAME": "Ayush Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS107",
+      "NAME": "Shrey Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS108",
+      "NAME": "Tushar Chaudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS165",
+      "NAME": "Rohan Makhloga",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS166",
+      "NAME": "Sahil Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS167",
+      "NAME": "Shubham Sinha",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS168",
+      "NAME": "Yashvardhan Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS169",
+      "NAME": "Suhail Saifi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS170",
+      "NAME": "Tushar Garg",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS172",
+      "NAME": "Vedant Saxena",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS173",
+      "NAME": "Yash Tyagi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS174",
+      "NAME": "Ayush Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS175",
+      "NAME": "Manvika Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS176",
+      "NAME": "Lakshya Bajpai",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS177",
+      "NAME": "Manan Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "22CS178",
+      "NAME": "Utkarsh Karhana",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B2",
+      "ROLL_NO": "21CS156",
+      "NAME": "Niharika Chauhan",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS109",
+      "NAME": "Varenya Kushwaha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS110",
+      "NAME": "Ritika Kumari",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS111",
+      "NAME": "Tanishk Sonkar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS112",
+      "NAME": "Nitish Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS113",
+      "NAME": "Shrey Pal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS114",
+      "NAME": "Himanshu Maurya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS115",
+      "NAME": "Saumya Rajoria",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS116",
+      "NAME": "Shubham Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS117",
+      "NAME": "Khushi Garg",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS118",
+      "NAME": "Utkarsh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS119",
+      "NAME": "Suryansh Bhati",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS120",
+      "NAME": "Siddhant Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS121",
+      "NAME": "Manika Rikhari",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22cs122",
+      "NAME": "Yash Jha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS123",
+      "NAME": "Mayank Harplani",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS124",
+      "NAME": "Shantanu Mishra",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS125",
+      "NAME": "Om Agarwal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS126",
+      "NAME": "Vishal Chaurasiya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS127",
+      "NAME": "Niharika Motwani",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS128",
+      "NAME": "Sumukh Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS129",
+      "NAME": "Mohammad Amaan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS130",
+      "NAME": "Sakshi",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS132",
+      "NAME": "Shubham Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS133",
+      "NAME": "Shreyansh Saini",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS134",
+      "NAME": "Mithun Rajput",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS135",
+      "NAME": "Niket Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS136",
+      "NAME": "Aryan Kumar Arya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS137",
+      "NAME": "Kushagra Bharti",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS138",
+      "NAME": "Tarun Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS139",
+      "NAME": "Vishal Kumar Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS140",
+      "NAME": "Prakhar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS141",
+      "NAME": "Shefta Anis",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3 🤩❤️❤️❤️❤️❤️",
+      "ROLL_NO": "22CS142",
+      "NAME": "Piyush Yadav",
+      "GROUP": "G1 🏆🌟🌟🌟🌟🌟",
+      "gender": "male 😄🥳🥳🥳🥳🥳🥳"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS143",
+      "NAME": "Aditya Deshwal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS206",
+      "NAME": "Khushi Priya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS144",
+      "NAME": "Harshkumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS145",
+      "NAME": "Deepanshi Jain",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS146",
+      "NAME": "Dhruva Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS147",
+      "NAME": "Arpan Jaiswal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS148",
+      "NAME": "Shubhankit Chaturvedi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS149",
+      "NAME": "Dakshika Chaudhary",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS150",
+      "NAME": "Shivankul Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS179",
+      "NAME": "Khushi Gupta",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS180",
+      "NAME": "Shatakshi Tiwari",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS181",
+      "NAME": "Sukhmeet Singh Lamba",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS182",
+      "NAME": "Bhavya Jaggi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS183",
+      "NAME": "Vans Randhava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS184",
+      "NAME": "Pranav Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS185",
+      "NAME": "Markanday Sahu",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS186",
+      "NAME": "Shaurya Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS187",
+      "NAME": "Anmol Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS188",
+      "NAME": "Harshit Vishnoi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS189",
+      "NAME": "Abhay Kush",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS190",
+      "NAME": "Shelly Verma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS191",
+      "NAME": "Mohit Shukla",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS192",
+      "NAME": "Diya Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS193",
+      "NAME": "Dhruvin Aggarwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS194",
+      "NAME": "Anurag Tyagi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS195",
+      "NAME": "Harsh Nayyar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS196",
+      "NAME": "Eshan Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS197",
+      "NAME": "Sudhanshu Shekhar Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS198",
+      "NAME": "Aarjav Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS199",
+      "NAME": "Aadya Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS200",
+      "NAME": "Raima Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS201",
+      "NAME": "Harsh Singhal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS202",
+      "NAME": "Anupam Nautiyal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "21CS049",
+      "NAME": "Siddhanth Singh",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "21CS199",
+      "NAME": "Abhishek Sethi",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "22CS204",
+      "NAME": "Anushk Patel",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B3",
+      "ROLL_NO": "21CS192",
+      "NAME": "Kshitiz Kumar Rai",
+      "GROUP": "Ex-Student",
+      "gender": "male"
+    }
+  ],
+  "AI&ML": [
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML001",
+      "NAME": "Prabhat Kesharwani",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML002",
+      "NAME": "Shashank Kumar Rathour",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML003",
+      "NAME": "Mohd Faiz",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML004",
+      "NAME": "Mohd Samar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML005",
+      "NAME": "Himani Garg",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML006",
+      "NAME": "Yuvraj Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML008",
+      "NAME": "Nimish Saxena",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML009",
+      "NAME": "Garima Chaudhary",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML010",
+      "NAME": "Krati Bajpai",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML011",
+      "NAME": "Harsh Vardhan Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML013",
+      "NAME": "Harsh Goyal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML014",
+      "NAME": "Abhinav Bansal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML015",
+      "NAME": "Rohit Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML016",
+      "NAME": "Shraddhansgh Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML017",
+      "NAME": "Aniket Singh Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML018",
+      "NAME": "Samridh Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML019",
+      "NAME": "Vidhi Verma",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML020",
+      "NAME": "Yashvardhan Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML021",
+      "NAME": "Alok Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML022",
+      "NAME": "Vibhaw Kureel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML023",
+      "NAME": "Aditya Fatwani",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML025",
+      "NAME": "Adya Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML026",
+      "NAME": "Samad Salam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML027",
+      "NAME": "Prakhar Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML028",
+      "NAME": "Shikhar Varshney",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML029",
+      "NAME": "Tanishq Saxena",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML030",
+      "NAME": "Muskan Jaiswal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML031",
+      "NAME": "Karuna Nidhan Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML032",
+      "NAME": "Priyanshu Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML033",
+      "NAME": "Khushi Gupta",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML135",
+      "NAME": "Vedanth Upadhyaya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML136",
+      "NAME": "Aadish Pandey ",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML034",
+      "NAME": "Akhilesh Verma",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML035",
+      "NAME": "Vaibhav Sarswat",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML036",
+      "NAME": "Ananya Pandey",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML037",
+      "NAME": "Vishal Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML038",
+      "NAME": "Vaibhav Joshi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML039",
+      "NAME": "Arshad Saifi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML040",
+      "NAME": "Shaaswat Jaishwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML041",
+      "NAME": "Abhishek Rajput",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML042",
+      "NAME": "Mayank Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML043",
+      "NAME": "Amit Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML044",
+      "NAME": "Mantavya Misra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML045",
+      "NAME": "Hitaishi Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML046",
+      "NAME": "Shabin S",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML047",
+      "NAME": "Krishna Goswami",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML048",
+      "NAME": "Utkarsh Gual",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML049",
+      "NAME": "Piyush Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML050",
+      "NAME": "Parth Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML101",
+      "NAME": "Aaditya Sood",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML102",
+      "NAME": "Arnav Chawla",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML103",
+      "NAME": "Ayushi Vats",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML104",
+      "NAME": "Digvijay Dutt",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML105",
+      "NAME": "Lucky Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML106",
+      "NAME": "Parth Narwat",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML107",
+      "NAME": "Pranjali Jain",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML108",
+      "NAME": "Sanskriti Bhatt",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML109",
+      "NAME": "Shlok Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML110",
+      "NAME": "Sujal Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML111",
+      "NAME": "Suyash Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML112",
+      "NAME": "Tanishq Tyagi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML113",
+      "NAME": "Yash Parikh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML114",
+      "NAME": "Shaurya Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML115",
+      "NAME": "Tanay Chaudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML116",
+      "NAME": "Abhishek Upadhayay",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B4",
+      "ROLL_NO": "22AI&ML133",
+      "NAME": "Jaya Kathuria",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML051",
+      "NAME": "Kavya Kumar Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML052",
+      "NAME": "Mahima Gupta",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML054",
+      "NAME": "Harsh Bansal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML055",
+      "NAME": "Srijan Yash",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML056",
+      "NAME": "Deeksha",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML057",
+      "NAME": "Vaishnavi Azad",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML059",
+      "NAME": "Harsh Vardhan Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML060",
+      "NAME": "Tathagat Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML061",
+      "NAME": "Shushila Vishwakarma",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML062",
+      "NAME": "Harshvardhan Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML063",
+      "NAME": "Avanit Kumar Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML064",
+      "NAME": "Prateek Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML065",
+      "NAME": "Dushyant Khatri",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML066",
+      "NAME": "Akhand Pratap Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML067",
+      "NAME": "Palak Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML068",
+      "NAME": "Aryan Kushwaha",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML069",
+      "NAME": "Madhav Krishan Goswami",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML070",
+      "NAME": "Mudita Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML071",
+      "NAME": "Ayush Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML072",
+      "NAME": "Khushi Yadav",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML074",
+      "NAME": "Sanskar Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML075",
+      "NAME": "Parikshit Tyagi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML076",
+      "NAME": "Chinmay Nanda",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML077",
+      "NAME": "Ayush Raj Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML078",
+      "NAME": "Tanmay Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML079",
+      "NAME": "Shivam Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML080",
+      "NAME": "Krishna Mittal",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML081",
+      "NAME": "Rajat Ranjan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML082",
+      "NAME": "Abhishek Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML083",
+      "NAME": "Harsh Katiyar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML084",
+      "NAME": "Chirag Bansal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML085",
+      "NAME": "Aditya Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML086",
+      "NAME": "Sumit Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML087",
+      "NAME": "Manya Agarwal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML088",
+      "NAME": "Pranita Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML089",
+      "NAME": "Ayush Singh Chauhan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML090",
+      "NAME": "Dewansh Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML091",
+      "NAME": "Abhiyanshu Anand",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML092",
+      "NAME": "Ankit Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML093",
+      "NAME": "Vidushi Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML094",
+      "NAME": "Priyanka Patel",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML095",
+      "NAME": "Shlok Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML096",
+      "NAME": "Aryan Giri",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML097",
+      "NAME": "Harigovind Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML098",
+      "NAME": "Aashutosh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML099",
+      "NAME": "Kartik Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML100",
+      "NAME": "Pushpendra Kumar Rathour",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML117",
+      "NAME": "Anoushka Sinha",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML118",
+      "NAME": "Anshu Awasthi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML119",
+      "NAME": "Amit Kumar Patel",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML120",
+      "NAME": "Amit Sonkar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML121",
+      "NAME": "Ansh Misra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML122",
+      "NAME": "Swayam Maheshwari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML123",
+      "NAME": "Kartik Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML124",
+      "NAME": "Aditya Harsh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML125",
+      "NAME": "Yugansh Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML126",
+      "NAME": "Insha Naseem",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML127",
+      "NAME": "Siddharth Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML128",
+      "NAME": "Vinayak Jain",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML129",
+      "NAME": "Savtvik Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML130",
+      "NAME": "Prisha Agrawal",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML131",
+      "NAME": "Tanish Rustagi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML132",
+      "NAME": "Yash Kaushal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "22AI&ML134",
+      "NAME": "Madhav Pachaury",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "21AI&ML008",
+      "NAME": "Anmol Panghal",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "21AI&ML061",
+      "NAME": "Savyasachi Pathak",
+      "GROUP": "Ex-Student",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B5",
+      "ROLL_NO": "21AI&ML060",
+      "NAME": "Tanzeel Ahmad",
+      "GROUP": "Ex-Student",
+      "gender": "male"
+    }
+  ],
+  "EE+CE": [
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE001",
+      "NAME": "Ankit Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE002",
+      "NAME": "Tarun Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE003",
+      "NAME": "Yogendra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE009",
+      "NAME": "Atin Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE010",
+      "NAME": "Himanshu Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE011",
+      "NAME": "Kumar Arnim",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE012",
+      "NAME": "Sunil Kumar Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE013",
+      "NAME": "Shriyansh Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE014",
+      "NAME": "Arunjeet Kanchan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE015",
+      "NAME": "Vivek Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE016",
+      "NAME": "Aman Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE017",
+      "NAME": "Harsh Patel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE018",
+      "NAME": "Prince Kumar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE019",
+      "NAME": "Samarth Vishwakarma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE020",
+      "NAME": "Smita Kumari",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE021",
+      "NAME": "Tanishq Tamta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE022",
+      "NAME": "Deepanshu Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE023",
+      "NAME": "Roopshree Bharti",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE042",
+      "NAME": "Raunit Priyadarshi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE43",
+      "NAME": "Aarav Katheria",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE044",
+      "NAME": "Tanmay Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE045",
+      "NAME": "Muskan Bhadauria",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE047",
+      "NAME": "Pranay Lohani",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE048",
+      "NAME": "Priyanshu Varshney",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE049",
+      "NAME": "Prashni Choudhary",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE050",
+      "NAME": "Hardik Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE051",
+      "NAME": "Ansh Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE052",
+      "NAME": "Devesh Baliyan",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE053",
+      "NAME": "Kunal Tiwari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE054",
+      "NAME": "Nishant Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE055",
+      "NAME": "Skand Tripathi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE056",
+      "NAME": "Vageesh Choudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE057",
+      "NAME": "Vansh Yadav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE058",
+      "NAME": "Vikas Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE059",
+      "NAME": "Aditya Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE060",
+      "NAME": "Himanshu Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE061",
+      "NAME": "Pranav Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE062",
+      "NAME": "Apoorv Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE063",
+      "NAME": "Vishal Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22EE64",
+      "NAME": "Sushant Sirohi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE017",
+      "NAME": "Shubham Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE018",
+      "NAME": "Mohd Akib",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE046",
+      "NAME": "Piyush  Rana",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE047",
+      "NAME": "Minaz Aalam",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE048",
+      "NAME": "Prateek Chaudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE049",
+      "NAME": "Ayush",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE050",
+      "NAME": "Sohail Saifi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE051",
+      "NAME": "Sumit Chaudhary",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE052",
+      "NAME": "Muktesh Sahoo",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE053",
+      "NAME": "Rishu Raj",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE054",
+      "NAME": "Upendra Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE055",
+      "NAME": "Shruti Prasad",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B6",
+      "ROLL_NO": "22CE056",
+      "NAME": "Shantanu Kumar Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    }
+  ],
+  "EEE+CE": [
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE001",
+      "NAME": "Anuj Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE002",
+      "NAME": "Amit Kumar Yadav",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE003",
+      "NAME": "Kalash Pandey",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE004",
+      "NAME": "Sahil Shyam Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE007",
+      "NAME": "Atul Kumar Rao",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE008",
+      "NAME": "Riya Tiwari",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE009",
+      "NAME": "Prankushi Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE010",
+      "NAME": "Madhav Agrawal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE011",
+      "NAME": "Saumya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE012",
+      "NAME": "Devesh Shukla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE013",
+      "NAME": "Shrish Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE014",
+      "NAME": "Sumit Maurya",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE015",
+      "NAME": "Ali Ashar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE016",
+      "NAME": "Amba Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE017",
+      "NAME": "Satyam Rai",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE019",
+      "NAME": "Yuvraj Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE020",
+      "NAME": "Mohd Saif Khan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE021",
+      "NAME": "Ayansh Singh",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE022",
+      "NAME": "Yashi Upadhyay",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE023",
+      "NAME": "Rajat Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE024",
+      "NAME": "Kunal Singh Negi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE025",
+      "NAME": "Ikshita Srivastava",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE026",
+      "NAME": "Jagreeti Verma",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE027",
+      "NAME": "Sanskriti Srivastava",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE028",
+      "NAME": "Tejasva Verma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE029",
+      "NAME": "Ananya Gupta",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "ROLL_NO": "22EEE030",
+      "NAME": "Hritik Kumar Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE031",
+      "NAME": "Aditya Tiwari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE32",
+      "NAME": "Anjali Tripati",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE47",
+      "NAME": "Satyam Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE48",
+      "NAME": "Himanshu Srivastava",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE49",
+      "NAME": "Yashwant Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE050",
+      "NAME": "Saharsh Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE051",
+      "NAME": "Abhir Verma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE052",
+      "NAME": "Anushka Bhushan",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE053",
+      "NAME": "Arnav Agarwal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE054",
+      "NAME": "Nikita Negi",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE055",
+      "NAME": "Nishant Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE056",
+      "NAME": "Nitin Chahar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE057",
+      "NAME": "Aanya Bahuguna",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE058",
+      "NAME": "Yashika Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE059",
+      "NAME": "Varun Kumar Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE060",
+      "NAME": "Sushant Mishra",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22EEE061",
+      "NAME": "Devansh Agrawal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "21EEE067",
+      "NAME": "Siddharth Joshi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE057",
+      "NAME": "Deep Lakshya",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE058",
+      "NAME": "Aman Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE059",
+      "NAME": "Himanshu Rajpoot",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE060",
+      "NAME": "Ayush Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE061",
+      "NAME": "Ishan Chaturvedi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE062",
+      "NAME": "Arunav Gupta",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B7",
+      "ROLL_NO": "22CE063",
+      "NAME": "Ajay Yadav",
+      "GROUP": "G2",
+      "STATUS": "RE-ADM",
+      "gender": "male"
+    }
+  ],
+  "ME+CE": [
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME008",
+      "NAME": "Parv Mishra",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME009",
+      "NAME": "Saksham Pratap Singh",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME010",
+      "NAME": "Pranjal Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME011",
+      "NAME": "Harsh Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME012",
+      "NAME": "Rachit Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME013",
+      "NAME": "Manish Tripathi",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME014",
+      "NAME": "Gaurav Gupta",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME015",
+      "NAME": "Arjit Tiwari",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME016",
+      "NAME": "Ashutosh Sengar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME017",
+      "NAME": "Rishi Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME018",
+      "NAME": "Soumyojit Roy",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME019",
+      "NAME": "Areeba Naaz",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME020",
+      "NAME": "Dhiraj Kumar Upadhyay",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME021",
+      "NAME": "Aditya Pal",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME022",
+      "NAME": "Nishant Gautam",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME023",
+      "NAME": "Yash Singh Baghel",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME024",
+      "NAME": "Anuja Mishra",
+      "GROUP": "G1",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME63",
+      "NAME": "Tarun Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME064",
+      "NAME": "Harshvardhan Sharma",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME065",
+      "NAME": "Divyam Chawla",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME066",
+      "NAME": "Rishabh Chandok",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME067",
+      "NAME": "Mayank Singh Chauhan",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME068",
+      "NAME": "Tejas Kachroo",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME069",
+      "NAME": "Kunal Bhardwaj",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME070",
+      "NAME": "Charan Bhatnagar",
+      "GROUP": "G1",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME071",
+      "NAME": "Rahul Nirala",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME072",
+      "NAME": "Aditya Kumar Jaiswal",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME073",
+      "NAME": "Shaurya Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME075",
+      "NAME": "Rachit Sharma",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME076",
+      "NAME": "Mohd Hammad Ansari",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME077",
+      "NAME": "Vinay Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME080",
+      "NAME": "Ravi Rajeev",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME081",
+      "NAME": "Saqib Ali",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME082",
+      "NAME": "Pranav Singh Rathore",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME083",
+      "NAME": "Akhil Awasthi",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME084",
+      "NAME": "Salman Abbas",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22ME086",
+      "NAME": "Shreeya Singh",
+      "GROUP": "G2",
+      "gender": "female"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "21ME125",
+      "NAME": "Eshit Kumar ",
+      "GROUP": "G2",
+      "STATUS": "RE-ADMITTED",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE007",
+      "NAME": "Abhishek Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE008",
+      "NAME": "Aryan Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE009",
+      "NAME": "Devansh Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE010",
+      "NAME": "Sumant Raj",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE011",
+      "NAME": "Harendra Pratap Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE012",
+      "NAME": "Aviral Srivastav",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE013",
+      "NAME": "Vikash Kumar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE014",
+      "NAME": "Priyanshu Bhaskar",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE015",
+      "NAME": "Yash Kumar Singh",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "22CE016",
+      "NAME": "Jatin Rai",
+      "GROUP": "G2",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "21CE001",
+      "NAME": "Prakhar Pratap Singh",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "20ME087",
+      "NAME": "Prajjwal Kanishk",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "21ME133",
+      "NAME": "Pranav Bahal",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    },
+    {
+      "SECTION": "B8",
+      "ROLL_NO": "21ME134",
+      "NAME": "Atishay Jain",
+      "STATUS": "EX-STD",
+      "gender": "male"
+    }
+  ]
+}

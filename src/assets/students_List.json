@@ -5,7 +5,7 @@
       "ROLL_NO": "22EC001",
       "NAME": "Ujjaval Rai",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A1",
@@ -96,7 +96,7 @@
       "ROLL_NO": "22EC014",
       "NAME": "Bagish Pandey",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A1",
@@ -152,7 +152,7 @@
       "ROLL_NO": "22EC022",
       "NAME": "Nehal Ahmad",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A1",
@@ -166,7 +166,7 @@
       "ROLL_NO": "22EC024",
       "NAME": "Priyam Pandey",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A1",
@@ -320,7 +320,7 @@
       "ROLL_NO": "22EC045",
       "NAME": "Srishti Singh",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A1",
@@ -334,7 +334,7 @@
       "ROLL_NO": "22EC047",
       "NAME": "Sanajna",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A1",
@@ -439,7 +439,7 @@
       "ROLL_NO": "22EC162",
       "NAME": "Diya Verma",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A1",
@@ -461,14 +461,14 @@
       "NAME": "Tarushi Sharma",
       "GROUP": "G2",
       "STATUS": "RE-ADM",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A1",
       "ROLL_NO": "22EC193",
       "NAME": "Tavishi Singh",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A2",
@@ -636,7 +636,7 @@
       "ROLL_NO": "22EC074",
       "NAME": "Hirdesh Pamnani",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A2",
@@ -650,14 +650,14 @@
       "ROLL_NO": "22EC077",
       "NAME": "Misbah Azam",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A2",
       "ROLL_NO": "22EC078",
       "NAME": "Shantanu Sharma",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A2",
@@ -699,7 +699,7 @@
       "ROLL_NO": "22EC198",
       "NAME": "Srishti Gupta",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A2",
@@ -783,7 +783,7 @@
       "ROLL_NO": "22EC095",
       "NAME": "Rifa Khan",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A2",
@@ -811,7 +811,7 @@
       "ROLL_NO": "22EC099",
       "NAME": "Saksham Rastogi",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A2",
@@ -825,7 +825,7 @@
       "ROLL_NO": "22EC166",
       "NAME": "Kashish Gupta",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A2",
@@ -853,7 +853,7 @@
       "ROLL_NO": "22EC170",
       "NAME": "Prabhu Punj",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A2",
@@ -1155,7 +1155,7 @@
     {
       "SECTION": "A3",
       "ROLL_NO": "22EC195",
-      "NAME": "Vanditsuryavanshi",
+      "NAME": "Vandit Suryavanshi",
       "GROUP": "G1",
       "gender": "male"
     },
@@ -1193,14 +1193,14 @@
       "ROLL_NO": "22EC137",
       "NAME": "Kushagra Singh",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A3",
       "ROLL_NO": "22EC138",
       "NAME": "Kushagra Soni",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A3",
@@ -1263,7 +1263,7 @@
       "ROLL_NO": "22EC149",
       "NAME": "Shreya Singh",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A3",
@@ -1284,7 +1284,7 @@
       "ROLL_NO": "22EC180",
       "NAME": "Shreya Varshney",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A3",
@@ -1340,7 +1340,7 @@
       "ROLL_NO": "22EC188",
       "NAME": "Riya Sinha",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A3",
@@ -1361,7 +1361,7 @@
       "ROLL_NO": "22EC191",
       "NAME": "Chaitanya Kainth",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A3",
@@ -1410,7 +1410,7 @@
       "ROLL_NO": "21EC175",
       "NAME": "Kasvi Gupta",
       "GROUP": "Ex-student",
-      "gender": "male"
+      "gender": "female"
     }
   ],
   "IT": [
@@ -1447,7 +1447,7 @@
       "ROLL_NO": "22IT005",
       "NAME": "Kanak Goel",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A4",
@@ -1489,7 +1489,7 @@
       "ROLL_NO": "22IT011",
       "NAME": "Shantanu Prajapati",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1580,7 +1580,7 @@
       "ROLL_NO": "22IT024",
       "NAME": "Iti Singh",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A4",
@@ -1601,7 +1601,7 @@
       "ROLL_NO": "22IT027",
       "NAME": "Bhanu Pratap Singh",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1692,7 +1692,7 @@
       "ROLL_NO": "22IT040",
       "NAME": "Priyam Jaiswal",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1711,9 +1711,9 @@
     {
       "SECTION": "A4",
       "ROLL_NO": "22IT043",
-      "NAME": "Krishna Sharmakrishna Sharma",
+      "NAME": "Krishna Sharma",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1748,7 +1748,7 @@
       "ROLL_NO": "22IT048",
       "NAME": "Amarjyoti",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1804,7 +1804,7 @@
       "ROLL_NO": "22IT153",
       "NAME": "Poorva Singh",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A4",
@@ -1867,7 +1867,7 @@
       "ROLL_NO": "22IT162",
       "NAME": "Iskanda Manglik",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A4",
@@ -1909,7 +1909,7 @@
       "ROLL_NO": "22IT055",
       "NAME": "Pragati Singh",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A5",
@@ -2091,14 +2091,14 @@
       "ROLL_NO": "22IT082",
       "NAME": "Divya Kumar",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A5",
       "ROLL_NO": "22IT083",
       "NAME": "Uma Shankar",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A5",
@@ -2196,14 +2196,14 @@
       "ROLL_NO": "22IT098",
       "NAME": "Vaishnavi Srivastava",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A5",
       "ROLL_NO": "22IT099",
       "NAME": "Ibra Fatima",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A5",
@@ -2294,7 +2294,7 @@
       "ROLL_NO": "22IT172",
       "NAME": "Shreya Mishra",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A5",
@@ -2456,7 +2456,7 @@
       "ROLL_NO": "22IT120",
       "NAME": "Shailesh Yadav",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A6",
@@ -2554,7 +2554,7 @@
       "ROLL_NO": "22IT134",
       "NAME": "Pawandeep Kaur",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A6",
@@ -2782,7 +2782,7 @@
     {
       "SECTION": "A6",
       "ROLL_NO": "22IT201",
-      "NAME": "Siddharthchoudhary",
+      "NAME": "Siddharth Choudhary",
       "GROUP": "G2",
       "gender": "male"
     },
@@ -2911,7 +2911,7 @@
       "ROLL_NO": "22CSDS009",
       "NAME": "Gargi Tarsoliya",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A7",
@@ -3086,7 +3086,7 @@
       "ROLL_NO": "22CSDS131",
       "NAME": "Krishna Garg",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A7",
@@ -3100,7 +3100,7 @@
       "ROLL_NO": "22CSDS035",
       "NAME": "Neelesh Kumar Saxena",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A7",
@@ -3149,7 +3149,7 @@
       "ROLL_NO": "22CSDS042",
       "NAME": "Shreya Shukla",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A7",
@@ -3240,7 +3240,7 @@
       "ROLL_NO": "22CSDS104",
       "NAME": "Gaurvi Varshney",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A7",
@@ -3268,7 +3268,7 @@
       "ROLL_NO": "22CSDS108",
       "NAME": "Sajal Singhal",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A7",
@@ -3464,7 +3464,7 @@
       "ROLL_NO": "22CSDS071",
       "NAME": "Bhoomi Chauhan",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A8",
@@ -3478,7 +3478,7 @@
       "ROLL_NO": "22CSDS073",
       "NAME": "Pragati Jaiswal",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A8",
@@ -3667,7 +3667,7 @@
       "ROLL_NO": "22CSDS118",
       "NAME": "Shreya Tripathi",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A8",
@@ -3695,7 +3695,7 @@
       "ROLL_NO": "22CSDS122",
       "NAME": "Kushagra Kumar",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "A8",
@@ -3709,7 +3709,7 @@
       "ROLL_NO": "22CSDS124",
       "NAME": "Ayanna Malik",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "A8",
@@ -4042,7 +4042,7 @@
       "ROLL_NO": "22CS036",
       "NAME": "Unnat Kumar Agarwal",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B1",
@@ -4070,7 +4070,7 @@
       "ROLL_NO": "22CS040",
       "NAME": "Shreya Sharma",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B1",
@@ -4350,7 +4350,7 @@
       "ROLL_NO": "22CS065",
       "NAME": "Kushagra Singh",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B2",
@@ -4420,7 +4420,7 @@
       "ROLL_NO": "22CS075",
       "NAME": "Ramya Singh",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B2",
@@ -4448,7 +4448,7 @@
       "ROLL_NO": "22CS079",
       "NAME": "Kashish Kushwaha",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B2",
@@ -4518,14 +4518,14 @@
       "ROLL_NO": "22CS207",
       "NAME": "Vidushi Bhatt",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B2",
       "ROLL_NO": "22CS089",
       "NAME": "Riya Aggarwal",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B2",
@@ -4630,7 +4630,7 @@
       "ROLL_NO": "22CS104",
       "NAME": "Maharshi Tripathi",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B2",
@@ -4756,7 +4756,7 @@
       "NAME": "Niharika Chauhan",
       "GROUP": "G2",
       "STATUS": "RE-ADM",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B3",
@@ -4868,7 +4868,7 @@
       "ROLL_NO": "22CS124",
       "NAME": "Shantanu Mishra",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B3",
@@ -4952,7 +4952,7 @@
       "ROLL_NO": "22CS137",
       "NAME": "Kushagra Bharti",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B3",
@@ -4983,11 +4983,11 @@
       "gender": "male"
     },
     {
-      "SECTION": "B3 🤩❤️❤️❤️❤️❤️",
+      "SECTION": "B3",
       "ROLL_NO": "22CS142",
       "NAME": "Piyush Yadav",
-      "GROUP": "G1 🏆🌟🌟🌟🌟🌟",
-      "gender": "male 😄🥳🥳🥳🥳🥳🥳"
+      "GROUP": "G1",
+      "gender": "male"
     },
     {
       "SECTION": "B3",
@@ -5001,7 +5001,7 @@
       "ROLL_NO": "22CS206",
       "NAME": "Khushi Priya",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B3",
@@ -5148,7 +5148,7 @@
       "ROLL_NO": "22CS192",
       "NAME": "Diya Jain",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B3",
@@ -5197,7 +5197,7 @@
       "ROLL_NO": "22CS199",
       "NAME": "Aadya Singh",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B3",
@@ -5285,7 +5285,7 @@
       "ROLL_NO": "22AI&ML005",
       "NAME": "Himani Garg",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B4",
@@ -5446,7 +5446,7 @@
       "ROLL_NO": "22AI&ML031",
       "NAME": "Karuna Nidhan Singh",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B4",
@@ -5712,14 +5712,14 @@
       "ROLL_NO": "22AI&ML133",
       "NAME": "Jaya Kathuria",
       "GROUP": "G2",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B5",
       "ROLL_NO": "22AI&ML051",
       "NAME": "Kavya Kumar Singh",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B5",
@@ -5754,7 +5754,7 @@
       "ROLL_NO": "22AI&ML057",
       "NAME": "Vaishnavi Azad",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B5",
@@ -6164,7 +6164,7 @@
     },
     {
       "SECTION": "B5",
-      "ROLL_NO": "21AI&ML008",
+      "ROLL_NO": "21AIML008",
       "NAME": "Anmol Panghal",
       "GROUP": "G2",
       "STATUS": "RE-ADM",
@@ -6172,14 +6172,14 @@
     },
     {
       "SECTION": "B5",
-      "ROLL_NO": "21AI&ML061",
+      "ROLL_NO": "21AIML061",
       "NAME": "Savyasachi Pathak",
       "GROUP": "Ex-Student",
       "gender": "female"
     },
     {
       "SECTION": "B5",
-      "ROLL_NO": "21AI&ML060",
+      "ROLL_NO": "21AIML060",
       "NAME": "Tanzeel Ahmad",
       "GROUP": "Ex-Student",
       "gender": "male"
@@ -6483,7 +6483,7 @@
     {
       "SECTION": "B6",
       "ROLL_NO": "22CE046",
-      "NAME": "Piyush  Rana",
+      "NAME": "Piyush Rana",
       "GROUP": "G2",
       "gender": "male"
     },
@@ -6534,7 +6534,7 @@
       "ROLL_NO": "22CE053",
       "NAME": "Rishu Raj",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B6",
@@ -6555,7 +6555,7 @@
       "ROLL_NO": "22CE056",
       "NAME": "Shantanu Kumar Singh",
       "GROUP": "G2",
-      "gender": "female"
+      "gender": "male"
     }
   ],
   "EEE+CE": [
@@ -6599,7 +6599,7 @@
       "ROLL_NO": "22EEE008",
       "NAME": "Riya Tiwari",
       "GROUP": "G1",
-      "gender": "male"
+      "gender": "female"
     },
     {
       "SECTION": "B7",
@@ -7042,7 +7042,7 @@
       "ROLL_NO": "22ME024",
       "NAME": "Anuja Mishra",
       "GROUP": "G1",
-      "gender": "female"
+      "gender": "male"
     },
     {
       "SECTION": "B8",

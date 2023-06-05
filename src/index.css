@@ -1,5 +1,4 @@
 :root,.root, body, html{
-  height: 100vh;
   width: 100vw;
 }
 
@@ -14,5 +13,28 @@ body, html{
 }
 
 body{
-  background-color: #28282e;
+  background-color: #18182a;
+  background-image: url('./assets/bg1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.body2{
+  background-image: url('./assets/bg2.jpg');
+}
+
+.body3{
+  /* background-color: #C850C0; */
+  background-image: url('./assets/bg3.jpg');
+}
+
+.body4{
+  background-image: url('./assets/bg4.jpg');
+}
+
+@media screen and (min-width: 700px){
+  :root,.root, body, html{
+    height: 100%;
+  }
 }

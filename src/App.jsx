@@ -27,7 +27,7 @@ export default function App() {
   // get likes from database and get liked status from local storage if 
   // the current user is changed from select dropdown
   const confettiData = {
-    emojis : ["❤️"],
+    emojis : [`${studentData.gender==="female"?"❤️":"💙"}`],
     emojiSize : `${(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent))?120:150}`,
     confettiNumber : 15
   }
@@ -157,11 +157,15 @@ export default function App() {
     window.scrollTo(0, 0)
   }
 
+  function handleShare(){
+    window.open("https://wa.me/?text=urlencodedtext", "_blank")
+  }
+
   return (
-    <div>
+    <div className='notSelect'>
       <nav className='navigator'>
           <Select
-            className='selectBox'
+            className={`selectBox ${studentData.name ? "" : "selectBoxMain"}`}
             onChange={handleSearch}
             options={Options}
           />
@@ -169,11 +173,17 @@ export default function App() {
             <img className='deskDiscordLink' src="/discord.png" alt="discord logo"/>
             <p className='deskDiscordText'>Join our Discord Server and hangout on variour channels with your JSS mates</p>
           </div>}
-          {storageAvailable("localStorage") && studentData.name &&
-          <button className='heart' onClick={handleLike} type='button'>
-            <img className="heartLogo" src = {(liked==="1") ? "/heart-solid.svg" : "/heart-regular.svg"}/>
-            <span className={liked==="1" ? 'likeCount likeCountLiked' : "likeCount"}> {likes} </span>
-          </button>}
+          <div className='heartShareCont'>
+            {storageAvailable("localStorage") && studentData.name &&
+            <button className='heart' onClick={handleLike} type='button'>
+              {`${liked==="1"?(studentData.gender==="male"?"💙":"❤️"):"🤍"}`}
+              {/* <img className={`heartLogo`} src = {(liked==="1") ? "/heart-solid.svg" : "/heart-regular.svg"}/> */}
+              <span className={liked==="1" ? 'likeCount likeCountLiked' : "likeCount"}> {likes} </span>
+            </button>}
+            <div className='shareProfile' onClick={handleShare}>
+              <img className='shareIcon' src="/share.png" alt="share icon"/> Share
+            </div>
+          </div>
       </nav>
       {studentData.name ?
       <main className='content'>

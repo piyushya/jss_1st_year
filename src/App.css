@@ -3,6 +3,13 @@
   height: 100vh;
 } */
 
+.notSelect{
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
 .navigator{
   padding: 1rem;
   display: flex;
@@ -16,12 +23,29 @@
   opacity: 0.7;
   color: black;
   z-index: 999;
+  filter: drop-shadow(0 0 0.1rem rgb(220, 123, 20));
+}
+
+.selectBoxMain{
+  animation: 0.7s linear infinite normal blip;
+}
+
+@keyframes blip {
+  0%{
+    filter: drop-shadow(0 0 0.1rem rgb(220, 123, 20));
+  }
+  99%{
+    filter: drop-shadow(0 0 2rem rgb(220, 20, 20));
+  }
+  100%{
+    filter: drop-shadow(0 0 0.1rem rgb(220, 123, 20));
+  }
 }
 
 .heart{
   border: 0px;
-  background-color: rgba(225, 225, 225, 0.203);
-  border: 0.2rem solid rgba(255, 0, 0, 0.397);
+  background-color: rgba(255, 255, 255, 0.164);
+  border: 0.2rem solid rgba(0, 0, 0, 0.212);
   border-radius: 20rem;
   display: flex;
   justify-content: center;
@@ -30,6 +54,7 @@
   transition: all 0.2s;
   width: 5rem;
   height: 5rem;
+  font-size: 3rem;
 }
 
 .heart3, .heart4{
@@ -38,12 +63,7 @@
 
 .heartLogo{
   width: 80%;
-  filter: invert(27%) 
-          sepia(51%) 
-          saturate(2878%) 
-          hue-rotate(346deg) 
-          brightness(104%) 
-          contrast(97%);
+  filter: sepia(100%) hue-rotate(190deg) saturate(500%);
   transition: all 0.2s;
 }
 
@@ -64,27 +84,52 @@
   background-color: aliceblue;
 }
 
-.heart:active .heartLogo{
-  filter: invert(27%) 
-          sepia(51%) 
-          saturate(2878%) 
-          hue-rotate(346deg) 
-          brightness(104%) 
-          contrast(97%) 
-          drop-shadow(0 0 0.75rem crimson);
-}
-
 .likeCount{
   position: absolute;
-  color: #d04141;
+  color: #000000;
   font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: bolder;
   transition: all 0.2s;
+  text-shadow: 0rem 0rem 1rem white;
+  margin-top: 0.5rem;
 }
 
 .likeCountLiked{
   color: white;
+}
+
+.heartShareCont{
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.shareIcon{
+  height: 2rem;
+  width: 2rem;
+}
+
+.shareProfile{
+  padding: 0.5rem;
+  padding-right: 0.8rem;
+  background-color: rgb(63,191,79);
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  color: white;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0.3rem;
+  transition: all 0.2s;
+}
+
+.shareProfile:hover{
+  background-color: rgb(68, 162, 80);
 }
 
 .content {
@@ -101,7 +146,7 @@
   color: #dfd0d0;
   font-family: 'Kaushan Script', cursive;
   font-size: 6rem;
-  text-shadow: -0.3rem -0.3rem 0rem rgb(21, 29, 173),
+  text-shadow: -0.3rem -0.3rem 0rem rgb(21, 26, 125),
                 0rem 0rem 0.5rem rgba(0, 0, 0, 0.347);
   /* text-shadow: 0rem 0rem 1rem rgb(0, 0, 0); */
   text-align: center;
@@ -125,7 +170,7 @@
 }
 
 .stdfemale{
-  text-shadow: -0.3rem -0.3rem 0rem rgb(176, 20, 147),
+  text-shadow: -0.3rem -0.3rem 0rem rgb(120, 19, 102),
                 0rem 0rem 0.5rem rgba(0, 0, 0, 0.347);
 }
 
@@ -154,6 +199,7 @@
   margin-inline: auto;
   border-radius: 1rem;
   backdrop-filter: blur(0.2rem);
+  z-index: -1;
 }
 
 .phone_view{

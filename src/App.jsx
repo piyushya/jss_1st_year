@@ -5,6 +5,8 @@ import { getDoc, updateDoc, doc} from 'firebase/firestore'
 import {sections, branches, studentTemplate} from './data'
 import JSConfetti from 'js-confetti'
 import studentsList from './assets/students_List.json'
+import { ToastContainer, toast, Slide } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 import './App.css'
 // import { addUsers, reset } from './dbOps';
 
@@ -117,6 +119,9 @@ export default function App() {
     })
     setOptions(localOptions)
     console.log("Options set for dropdown")
+    if((navigator.brave && navigator.brave.isBrave()) || !storageAvailable("localStorage")){
+      handleBrave()
+    }
   }, [])
 
   React.useEffect(()=>{
@@ -191,6 +196,8 @@ export default function App() {
   }
 
   function handleLike(){
+    if(navigator.brave && navigator.brave.isBrave())
+      return
     jsConfetti.addConfetti(confettiData)
     if(liked === "1"){
       setLiked("0")
@@ -219,8 +226,36 @@ export default function App() {
     window.open("https://wa.me/?text=urlencodedtext", "_blank")
   }
 
+  function handleBrave(){
+    toast.info("Please use a different browser if you want to give hearts", {
+      transition : Slide,
+      position: "top-center",
+      autoClose: 3000,
+      hideProgressBar: true,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+      theme: "dark",
+  });
+  }
+
   return (
     <div className='notSelect'>
+      <ToastContainer
+                limit={1}
+                transition={Slide}
+                position="top-center"
+                autoClose={3000}
+                hideProgressBar
+                newestOnTop={false}
+                closeOnClick
+                rtl={false}
+                pauseOnFocusLoss
+                draggable
+                pauseOnHover
+                theme="dark"
+            />
       <nav className='navigator'>
           {studentData.name && <Select
             className={`selectBox ${studentData.name ? "" : "selectBoxMain"}`}
@@ -232,8 +267,8 @@ export default function App() {
             <p className='deskDiscordText'>Join our Discord Server and hangout on variour channels with your JSS mates</p>
           </div>}
           <div className='heartShareCont'>
-            {!(navigator.brave && navigator.brave.isBrave() || false) && storageAvailable("localStorage") && studentData.name &&
-            <button className='heart' onClick={handleLike} type='button'>
+            {studentData.name &&
+            <button className='heart' onClick={((navigator.brave && navigator.brave.isBrave()) || !storageAvailable("localStorage")) ? handleBrave : handleLike} type='button'>
               {`${liked==="1"?(studentData.gender==="male"?"💙":"❤️"):"🤍"}`}
               {/* <img className={`heartLogo`} src = {(liked==="1") ? "/heart-solid.svg" : "/heart-regular.svg"}/> */}
               <span className={liked==="1" ? 'likeCount likeCountLiked' : "likeCount"}> {likes} </span>

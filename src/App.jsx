@@ -1,15 +1,20 @@
 import React from 'react'
 import Select from 'react-select';
 import {db} from '../firebase'
-import { getDoc, updateDoc, doc, collection } from 'firebase/firestore'
-// import { reset, addUsers} from './dbOps'
+import { getDoc, updateDoc, doc} from 'firebase/firestore'
 import {sections, branches, studentTemplate} from './data'
 import JSConfetti from 'js-confetti'
 import studentsList from './assets/students_List.json'
 import './App.css'
-// import { addUsers } from './dbOps';
+// import { addUsers, reset } from './dbOps';
 
 const body = document.querySelector("body")
+// window.onbeforeunload = function() {
+//   console.log("unloaded")
+// }
+let myLikedLocal = {...localStorage}
+
+// addUsers()
 
 export default function App() {
   const [studentData, setStudentData] = React.useState({
@@ -24,8 +29,58 @@ export default function App() {
 
   const [likes, setLikes] = React.useState(0)
 
+  // const [LeaderBoard, setLeaderBoard] = React.useState([
+  //   {"name" : "loading", "likes" : "loading"}, 
+  //   {"name" : "loading", "likes" : "loading"}, 
+  //   {"name" : "loading", "likes" : "loading"}
+  // ])
+
   // get likes from database and get liked status from local storage if 
   // the current user is changed from select dropdown
+
+  var handleCheat = function(event){
+    console.log("Please don't Cheat 😉")
+    if(event.key != null){
+      if(event.oldValue === "1"){
+        if(event.key === studentData.roll_no){
+          setLiked("0")
+          setLikes(prev => prev-1)
+        }
+        localStorage.setItem(event.key, "0")
+        set_Likes_blunder(event.key)
+      }
+    }
+    else{
+      for (let [key, value] of Object.entries(myLikedLocal)) {
+        if(value === "1"){
+          if(key === studentData.roll_no){
+            setLiked("0")
+            setLikes(prev => prev-1)
+          }
+          localStorage.setItem(key, "0")
+          set_Likes_blunder(key)
+        }
+      }
+    }
+  }
+
+  async function set_Likes_blunder(roll_no){
+    try{
+      const docRef = doc(db, "likes", roll_no)
+      const uData = await getDoc(docRef)
+      const updLikes = uData.data().likes - 1;
+      try {
+        await updateDoc(docRef, {
+          "likes" : updLikes
+        });
+      } catch (err) {
+        console.log("error updating likes");
+      }
+    }catch{
+      console.log("student does not exist")
+    }
+  }
+
   const confettiData = {
     emojis : [`${studentData.gender==="female"?"❤️":"💙"}`],
     emojiSize : `${(/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent))?120:150}`,
@@ -52,6 +107,8 @@ export default function App() {
 
   // set names of students to display in the dropdown
   React.useEffect(()=>{
+    window.addEventListener("storage", handleCheat, false);
+    // getLeaderBoard()
     const localOptions = []
     sections.forEach((section)=>{
       studentsList[`${section}`].forEach((data)=>{
@@ -63,7 +120,6 @@ export default function App() {
   }, [])
 
   React.useEffect(()=>{
-    console.log(likes)
     if(likes >= 50){
       setLevel("4")
       body.className = "body4"
@@ -103,31 +159,32 @@ export default function App() {
     return studentDataLocal
   }
 
-  async function get_Likes(roll_no){
+  function get_Likes(roll_no){
     try{
-      const docRef = doc(db, "likes", roll_no);
-      const uData = await getDoc(docRef);
-      setLikes(uData.data().likes)
+      const docRef = doc(db, "likes", roll_no)
+      getDoc(docRef).then((uData) => {
+        setLikes(uData.data().likes)
+      })
     }catch{
       console.log("student does not exist")
     }
   }
 
-  async function set_Likes(roll_no, like){
-    setLikes(likes + like)
+  async function set_Likes(roll_no, status){
+    if(likes===0 && status === "0"){
+      return
+    }
+    const newLikes = status==="1"?(likes+1):(likes-1)
+    setLikes(newLikes)
     try {
       const userD = doc(db, "likes", roll_no);
       await updateDoc(userD, {
-        "likes" : likes + like
+        "likes" : newLikes
       });
     } catch (err) {
       console.log("error updating likes");
     }
   }
-
-  window.addEventListener("storage", function () {
-    console.log("something fishy")
-  }, false);
 
   function handleSearch(e){
     setStudentData(getStudentData(e.id))
@@ -138,13 +195,14 @@ export default function App() {
     if(liked === "1"){
       setLiked("0")
       localStorage.setItem(studentData.roll_no, "0")
-      set_Likes(studentData.roll_no, -1)
+      set_Likes(studentData.roll_no, "0")
     }
     else{
       setLiked("1")
       localStorage.setItem(studentData.roll_no, "1")
-      set_Likes(studentData.roll_no, 1)
+      set_Likes(studentData.roll_no, "1")
     }
+    myLikedLocal = {...myLikedLocal, ...localStorage}
   }
 
   function goToDiscord(){
@@ -164,17 +222,17 @@ export default function App() {
   return (
     <div className='notSelect'>
       <nav className='navigator'>
-          <Select
+          {studentData.name && <Select
             className={`selectBox ${studentData.name ? "" : "selectBoxMain"}`}
             onChange={handleSearch}
             options={Options}
-          />
+          />}
           {studentData.name && <div className={`deskDiscordInfo deskDiscordInfo${level}`} onClick={goToDiscord}>
             <img className='deskDiscordLink' src="/discord.png" alt="discord logo"/>
             <p className='deskDiscordText'>Join our Discord Server and hangout on variour channels with your JSS mates</p>
           </div>}
           <div className='heartShareCont'>
-            {storageAvailable("localStorage") && studentData.name &&
+            {!(navigator.brave && navigator.brave.isBrave() || false) && storageAvailable("localStorage") && studentData.name &&
             <button className='heart' onClick={handleLike} type='button'>
               {`${liked==="1"?(studentData.gender==="male"?"💙":"❤️"):"🤍"}`}
               {/* <img className={`heartLogo`} src = {(liked==="1") ? "/heart-solid.svg" : "/heart-regular.svg"}/> */}
@@ -211,18 +269,28 @@ export default function App() {
       : 
       <main className='notSearched'>
         <h1 className='mainInfo'>Search for your friends and give them a ❤️</h1>
+        {!studentData.name && <Select
+            className={`mainScreenSelect selectBox ${studentData.name ? "" : "selectBoxMain"}`}
+            onChange={handleSearch}
+            options={Options}
+          />}
         <div className='infoContainerMain'>
+          <div className='Info levelInfo'>
+            <div className='infoText'>
+              <div className='infoTextLine'>0-9 ❤️ : level 1 <img width="30px" src='/badges/1.png'/></div>
+              <div className='infoTextLine'>10-29 ❤️ : level 2 <img width="30px" src='/badges/2.png'/></div>
+              <div className='infoTextLine'>30-49 ❤️ : level 3 <img width="30px" src='/badges/3.png'/></div>
+              <div className='infoTextLine'>50--- ❤️ : level 4 <img width="30px" src='/badges/4.png'/></div>
+            </div>
+          </div>
+          {/* <div className='Info leaderInfo'>
+            <div>{LeaderBoard[0].name}</div>
+            <div>{LeaderBoard[1].name}</div>
+            <div>{LeaderBoard[2].name}</div>
+          </div> */}
           <div className='Info discordInfo'>
             <a href="#"><img className='discordLink' src="/discord.png" alt="discord logo"/></a>
             <p className='infoText'>Also join our Discord Server and hangout on variour channels with your JSS mates</p>
-          </div>
-          <div className='Info levelInfo'>
-            <p className='infoText'>
-              0-9 ❤️ : level 1 <img width="30px" src='/badges/1.png'/><br/>
-              10-29 ❤️ : level 2 <img width="30px" src='/badges/2.png'/><br/>
-              30-49 ❤️ : level 3 <img width="30px" src='/badges/3.png'/><br/>
-              50--- ❤️ : level 4 <img width="30px" src='/badges/4.png'/>
-            </p>
           </div>
         </div>
       </main>}

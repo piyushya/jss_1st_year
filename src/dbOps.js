@@ -45,3 +45,29 @@ export {
     reset,
     addUsers
 }
+
+// async function getLeaderBoard(){
+  //   const q = query(collection(db, "likes"), orderBy("likes", "desc"));
+  //   const docs = await getDocs(q);
+  //   let i = 0
+  //   docs.forEach((doc) => {
+  //     if(i===3)
+  //       return
+  //     setLeaderBoard((prev) => (
+  //       [...prev, {
+  //         "roll_no" : [doc.id],
+  //         "likes" : doc.data().likes,
+  //         "name" : getName(doc.id)
+  //       }]))
+  //     i++
+  //   })
+  // }
+
+  // function getName(roll_no){
+  //   sections.forEach((section)=>{
+  //     studentsList[`${section}`].forEach((data)=>{
+  //       if(data.ROLL_NO === roll_no)
+  //         return data.NAME
+  //     })
+  //   })
+  // }

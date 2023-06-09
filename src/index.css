@@ -26,11 +26,12 @@ p{
 }
 
 body{
-  background-color: #18182a;
+  background-color: #dacdba;
   background-image: url('./assets/bg1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  overflow-x: hidden;
 }
 
 .body2{

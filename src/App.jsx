@@ -15,6 +15,7 @@ const body = document.querySelector("body")
 //   console.log("unloaded")
 // }
 let myLikedLocal = {...localStorage}
+const jsConfetti = new JSConfetti()
 
 // addUsers()
 
@@ -94,7 +95,6 @@ export default function App() {
     confettiNumber : 20
   }
 
-  const jsConfetti = new JSConfetti()
   React.useEffect(() => {
     if(studentData.gender === "female"){
       body.classList.add("female")
@@ -125,11 +125,11 @@ export default function App() {
   }, [])
 
   React.useEffect(()=>{
-    if(likes >= 50){
+    if(likes >= 30){
       setLevel("4")
       body.className = "body4"
     }
-    else if(likes >= 30){
+    else if(likes >= 20){
       setLevel("3")
       body.className = "body3"
     }
@@ -213,7 +213,7 @@ export default function App() {
   }
 
   function goToDiscord(){
-    window.open("#", "_blank")
+    window.open("https://discord.gg/VR4yhgHP", "_blank")
   }
 
   function goToDeveloper(){
@@ -223,7 +223,11 @@ export default function App() {
   }
 
   function handleShare(){
-    window.open("https://wa.me/?text=urlencodedtext", "_blank")
+    if(studentData.name){
+      window.open(`https://wa.me/?text=Search%20for%20${studentData.name}%20give%20a%20%E2%9D%A4%EF%B8%8F%20and%20help%20me%20level%20up%0A%20${window.location.href}`, "_blank")
+      return
+    }
+    window.open(`https://wa.me/?text=Search%20for%20your%20friends%20and%20give%20them%20a%20%E2%9D%A4%EF%B8%8F%20to%20level%20them%20up%0A${window.location.href}`, "_blank")
   }
 
   function handleBrave(){
@@ -264,7 +268,7 @@ export default function App() {
           />}
           {studentData.name && <div className={`deskDiscordInfo deskDiscordInfo${level}`} onClick={goToDiscord}>
             <img className='deskDiscordLink' src="/discord.png" alt="discord logo"/>
-            <p className='deskDiscordText'>Join our Discord Server and hangout on variour channels with your JSS mates</p>
+            <p className='deskDiscordText'>Join discord server to recieve most loved profile announcement</p>
           </div>}
           <div className='heartShareCont'>
             {studentData.name &&
@@ -297,13 +301,13 @@ export default function App() {
           </div>
         </div>
         <div className='Info discordInfo phoneDiscordInfo'>
-          <a href="#"><img className='discordLink' src="/discord.png" alt="discord logo"/></a>
-          <p className='infoText'>Join our Discord Server and hangout on variour channels with your JSS mates</p>
+          <a href="https://discord.gg/VR4yhgHP" target="_blank" rel="noreferrer"><img className='discordLink' src="/discord.png" alt="discord logo"/></a>
+          <p className='infoText'>Do Join the JSSATEN Community discord server to recieve the most loved profiles announcement</p>
         </div>
       </main>
       : 
       <main className='notSearched'>
-        <h1 className='mainInfo'>Search for your friends and give them a ❤️</h1>
+        <h1 className='mainInfo'>Search for your friends, give them a ❤️ and level them up</h1>
         {!studentData.name && <Select
             className={`mainScreenSelect selectBox ${studentData.name ? "" : "selectBoxMain"}`}
             onChange={handleSearch}
@@ -313,9 +317,9 @@ export default function App() {
           <div className='Info levelInfo'>
             <div className='infoText'>
               <div className='infoTextLine'>0-9 ❤️ : level 1 <img width="30px" src='/badges/1.png'/></div>
-              <div className='infoTextLine'>10-29 ❤️ : level 2 <img width="30px" src='/badges/2.png'/></div>
-              <div className='infoTextLine'>30-49 ❤️ : level 3 <img width="30px" src='/badges/3.png'/></div>
-              <div className='infoTextLine'>50--- ❤️ : level 4 <img width="30px" src='/badges/4.png'/></div>
+              <div className='infoTextLine'>10-19 ❤️ : level 2 <img width="30px" src='/badges/2.png'/></div>
+              <div className='infoTextLine'>20-29 ❤️ : level 3 <img width="30px" src='/badges/3.png'/></div>
+              <div className='infoTextLine'>30--- ❤️ : level 4 <img width="30px" src='/badges/4.png'/></div>
             </div>
           </div>
           {/* <div className='Info leaderInfo'>
@@ -324,8 +328,8 @@ export default function App() {
             <div>{LeaderBoard[2].name}</div>
           </div> */}
           <div className='Info discordInfo'>
-            <a href="#"><img className='discordLink' src="/discord.png" alt="discord logo"/></a>
-            <p className='infoText'>Also join our Discord Server and hangout on variour channels with your JSS mates</p>
+            <a href="https://discord.gg/VR4yhgHP" target="_blank" rel="noreferrer"><img className='discordLink' src="/discord.png" alt="discord logo"/></a>
+            <p className='infoText'>Do Join the JSSATEN Community discord server to recieve the most loved profiles announcement</p>
           </div>
         </div>
       </main>}

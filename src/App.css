@@ -270,6 +270,8 @@
   color: white;
   text-align: center;
   margin-top: 0.5rem;
+  max-width: 50rem;
+  margin-inline: auto;
 }
 
 .Info{
@@ -312,6 +314,19 @@
   padding: 1.5rem;
   border-radius: 20rem;
   transition: all 0.2s;
+  animation: 0.7s linear infinite normal blipDiscord;
+}
+
+@keyframes blipDiscord {
+  0%{
+    filter: drop-shadow(0 0 0.1rem rgb(110, 20, 220));
+  }
+  99%{
+    filter: drop-shadow(0 0 1rem rgb(103, 20, 220));
+  }
+  100%{
+    filter: drop-shadow(0 0 0.1rem rgb(123, 20, 220));
+  }
 }
 
 .discCont{
@@ -373,6 +388,7 @@
   display: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: aliceblue;
+  padding-bottom: 0.5rem;
 }
 
 @media screen and (max-width: 700px) {

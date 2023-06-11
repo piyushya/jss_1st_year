@@ -383,6 +383,21 @@
   margin: 0rem;
 }
 
+.leaderInfoCont{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.leaderboard{
+  width: 20rem;
+  max-width: 100%;
+  padding: 0rem;
+}
+
+.phone_view_leader{
+  display: none;
+}
+
 .footer{
   text-align: center;
   display: none;
@@ -417,6 +432,9 @@
   .phone_view{
     display: block;
     padding: 1.5rem;
+  }
+  .phone_view_leader{
+    display: block;
   }
   .desk_view{
     display: none;

@@ -332,6 +332,7 @@ export default function App() {
             <p className='infoText'>Do Join the JSSATEN Community discord server to recieve the most loved profiles announcement</p>
           </div>
         </div>
+        <img className="Info leaderboard phone_view_leader" src="/leader1.png" alt='leaderboard image'/>
       </main>}
       <footer className='footer' onClick={goToDeveloper}>
         <p>Made with ❤️ by Piyush</p>
